@@ -1,7 +1,7 @@
 {
     "NAME": "SpeedUnitDisplay",
-    "URL": "",
-    "DOWNLOAD": ",
+    "URL": "https://raw.githubusercontent.com/stasikos/SpeedUnitDisplay/master/SpeedUnitDisplay.version",
+    "DOWNLOAD": "https://github.com/stasikos/SpeedUnitDisplay/releases",
     "VERSION":{
         "MAJOR": 0,
         "MINOR": 1,
