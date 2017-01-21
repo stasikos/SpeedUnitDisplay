@@ -1,5 +1,5 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.Workbench ActiveDocument="SpeedUnitDisplay/SpeedUnitDisplay.cs">
     <Files>
       <File FileName="SpeedUnitDisplay/SpeedUnitDisplay.cs" Line="55" Column="6" />

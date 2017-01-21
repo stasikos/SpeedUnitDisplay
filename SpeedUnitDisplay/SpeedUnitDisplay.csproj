@@ -30,19 +30,19 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System">
-      <HintPath>..\..\..\..\Soft\KSP\KSP_1.2.1_Review\KSP_Data\Managed\System.dll</HintPath>
+      <HintPath>..\..\..\..\Soft\KSP\KSP_1.2.2_Dev\KSP_Data\Managed\System.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine">
-      <HintPath>..\..\..\..\Soft\KSP\KSP_1.2.1_Review\KSP_Data\Managed\UnityEngine.dll</HintPath>
+      <HintPath>..\..\..\..\Soft\KSP\KSP_1.2.2_Dev\KSP_Data\Managed\UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>..\..\..\..\Soft\KSP\KSP_1.2.1_Review\KSP_Data\Managed\UnityEngine.UI.dll</HintPath>
+      <HintPath>..\..\..\..\Soft\KSP\KSP_1.2.2_Dev\KSP_Data\Managed\UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="KSPAssets">
-      <HintPath>..\..\..\..\Soft\KSP\KSP_1.2.1_Review\KSP_Data\Managed\KSPAssets.dll</HintPath>
+      <HintPath>..\..\..\..\Soft\KSP\KSP_1.2.2_Dev\KSP_Data\Managed\KSPAssets.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-CSharp">
-      <HintPath>..\..\..\..\Soft\KSP\KSP_1.2.1_Review\KSP_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <HintPath>..\..\..\..\Soft\KSP\KSP_1.2.2_Dev\KSP_Data\Managed\Assembly-CSharp.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
