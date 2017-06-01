@@ -55,8 +55,8 @@ namespace SpeedUnitDisplay
 
 					display.textTitle.text = titleText;
 					display.textSpeed.text = speedText;
-					display.textTitle.OverflowMode = TMPro.TextOverflowModes.Overflow;
-					display.textSpeed.OverflowMode = TMPro.TextOverflowModes.Overflow;
+					display.textTitle.overflowMode = TMPro.TextOverflowModes.Overflow;
+					display.textSpeed.overflowMode = TMPro.TextOverflowModes.Overflow;
 					display.textTitle.fontSize = titleFontSize / 1.1f;
 					display.textSpeed.fontSize = fontSize / 1.3f;
 

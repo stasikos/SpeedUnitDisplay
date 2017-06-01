@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProductVersion>10.0.0</ProductVersion>
+    <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{760AEC5B-AEE9-486E-AA10-C29EF2A91C8E}</ProjectGuid>
     <OutputType>Library</OutputType>
@@ -29,9 +29,6 @@
     <ConsolePause>false</ConsolePause>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="System">
-      <HintPath>..\..\..\..\Soft\KSP\KSP_1.2.2_Dev\KSP_Data\Managed\System.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine">
       <HintPath>..\..\..\..\Soft\KSP\KSP_1.2.2_Dev\KSP_Data\Managed\UnityEngine.dll</HintPath>
     </Reference>
@@ -39,10 +36,13 @@
       <HintPath>..\..\..\..\Soft\KSP\KSP_1.2.2_Dev\KSP_Data\Managed\UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="KSPAssets">
-      <HintPath>..\..\..\..\Soft\KSP\KSP_1.2.2_Dev\KSP_Data\Managed\KSPAssets.dll</HintPath>
+      <HintPath>..\..\..\..\Soft\KSP\KSP_1.3_Clean\KSP_Data\Managed\KSPAssets.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-CSharp">
-      <HintPath>..\..\..\..\Soft\KSP\KSP_1.2.2_Dev\KSP_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <HintPath>..\..\..\..\Soft\KSP\KSP_1.3_Clean\KSP_Data\Managed\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\Soft\KSP\KSP_1.3_Clean\KSP_Data\Managed\System.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
